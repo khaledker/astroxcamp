@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin
+Disallow: /admin/
+Allow: /
+
+# Add the production Sitemap line once the final domain is known:
+# Sitemap: https://example.com/sitemap.xml
